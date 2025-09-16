@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emre Sevik 👋</h1>
 <p align="center">
-  Computer Engineering student · AI/ML & Computer Vision enthusiast
+  Computer Engineering student · AI/ML & Computer Vision 
 </p>
 
 <p align="center">
