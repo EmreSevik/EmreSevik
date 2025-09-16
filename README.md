@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emre Sevik 👋</h1>
 <p align="center">
-  Senior Computer Engineering student · AI/ML & Computer Vision enthusiast
+  Computer Engineering student · AI/ML & Computer Vision enthusiast
 </p>
 
 <p align="center">
@@ -52,49 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
-
----
-
-### 💼 Experience
-- **AI Intern — Ithinka (Aug 2025 – Sep 2025)**  
-  - Contributed to data prep and YOLOv8 model training  
-  - Built a Flask‑based face recognition attendance system (PostgreSQL integration)  
-  - Real‑time entry/exit detection with names and confidence scores  
-  - Deployed on Heroku and optimized performance (lightweight `face_locations`)
-
-- **AI & Computer Vision Intern — Emayer (Jul 2025 – Aug 2025)**  
-  - Real‑time object detection with YOLOv8/v5‑OBB (90%+ mAP in industrial tasks)  
-  - Robust video tracking with ByteTrack, OC‑SORT  
-  - Edge deployment on NVIDIA Jetson with speed/accuracy tuning  
-  - Strengthened Python, PyTorch, OpenCV, and MLOps practices
-
----
-
-### 🎓 Education
-- **Istanbul Aydın University — B.Sc. in Computer Engineering (English)** (Sep 2022 – Present)  
-  Relevant courses: Machine Learning, Deep Learning, Data Structures, Algorithms, DBMS, AI
-
----
-
-### 🏆 Certifications
-- Miuul Machine Learning Camp  
-- Advanced Learning Algorithms — DeepLearning.AI  
-- Supervised Machine Learning: Regression and Classification — DeepLearning.AI  
-- Machine Learning Algorithms — BUSIBER Bogazici
-
----
-
-### 🧩 Featured Projects
-- **Cinematch — Movie Recommendation System (Django)**  
-  User authentication, personalized suggestions, favorites, and popular/top‑rated lists; Python‑based recommendation models and MySQL storage.
-
-- **PET Bottle Sorting System (Emayer, 2025)**  
-  Real‑time detection/classification with YOLOv8; integrated with a conveyor system; 85%+ accuracy in live production tests.
-
-- **Face Recognition Attendance System (Flask)**  
-  Real‑time entry/exit tracking with names and confidence; PostgreSQL integration; deployed on Heroku with performance optimizations.
-
-More projects: <a href="https://www.emresevik.com/">emresevik.com</a>
 
 ---
 
