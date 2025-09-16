@@ -63,4 +63,4 @@
 
 ---
 
-<sub>Source: Profile information compiled from my website — <a href="https://www.emresevik.com/">emresevik.com</a>.</sub>
+
